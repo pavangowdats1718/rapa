@@ -1,13 +1,9 @@
 pavan
 pruthvi
-<<<<<<< HEAD
 cloud computing is hard
 pavan
-=======
-cloud computing
+cloud computing is easy
 devops
 roshan
 pavangowda 
 raksha
-
->>>>>>> master
