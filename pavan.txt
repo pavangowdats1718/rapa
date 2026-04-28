@@ -1,5 +1,4 @@
 pavan
 pruthvi
-cloud computing
-devops
-likith:
+cloud computing is hard
+pavan
